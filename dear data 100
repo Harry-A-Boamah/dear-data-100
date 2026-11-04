@@ -1,0 +1,6 @@
+mkdir dear-data-100
+cd dear-data-100
+git init
+# add your .pde sketch and data.csv
+git add .
+    git commit -m "Initial sketch and data collection started"
